@@ -1,0 +1,141 @@
+XG	Locale: All
+	XG301	Hokkaido
+	XG302	Aomori Prefecture
+	XG303	Iwate Prefecture
+	XG304	Miyagi Prefecture
+	XG305	Akita Prefecture
+	XG306	Yamagata Prefecture
+	XG307	Fukushima Prefecture
+	XG308	Ibaraki Prefecture
+	XG309	Tochigi Prefecture
+	XG310	Gumma Prefecture
+	XG311	Saitama Prefecture
+	XG312	Chiba Prefecture
+	XG313	Tokyo
+	XG314	Kanagawa Prefecture
+	XG315	Niigata Prefecture
+	XG316	Toyama Prefecture
+	XG317	Ishikawa Prefecture
+	XG318	Fukui Prefecture
+	XG319	Yamanashi Prefecture
+	XG320	Nagano Prefecture
+	XG321	Gifu Prefecture
+	XG322	Shizuoka Prefecture
+	XG323	Aichi Prefecture
+	XG324	Mie Prefecture
+	XG325	Shiga Prefecture
+	XG326	Kyoto Prefecture
+	XG327	Osaka Prefecture
+	XG328	Hyogo Prefecture
+	XG329	Nara Prefecture
+	XG330	Wakayama Prefecture
+	XG331	Tottori Prefecture
+	XG332	Shimane Prefecture
+	XG333	Okayama Prefecture
+	XG334	Hiroshima Prefecture
+	XG335	Yamaguchi Prefecture
+	XG336	Tokushima Prefecture
+	XG337	Ehime Prefecture
+	XG338	Kagawa Prefecture
+	XG339	Kochi Prefecture
+	XG340	Fukuoka Prefecture
+	XG341	Saga Prefecture
+	XG342	Nagasaki Prefecture
+	XG343	Kumamoto Prefecture
+	XG344	Oita Prefecture
+	XG345	Miyazaki Prefecture
+	XG346	Kagoshima Prefecture
+	XG347	Okinawa Prefecture
+Countries: All
+	XI1BD	Bangladesh
+	XI1CN	China
+	XI1HK	Hong Kong
+	XI1ID	Indonesia
+	XI1IN	India
+	XI1KH	Cambodia
+	XI1KO	Korea
+	XI1KP	Democratic People's Republic of Korea
+	XI1KR	Republic of Korea
+	XI1LA	Laos
+	XI1LK	Sri Lanka
+	XI1MM	Myanmar
+	XI1MN	Mongolia
+	XI1MY	Malaysia
+	XI1NP	Nepal
+	XI1PH	Philippines
+	XI1PK	Pakistan
+	XI1SG	Singapore
+	XI1TH	Thailand
+	XI1TW	Taiwan
+	XI1VN	Vietnam
+	XI2IL	Israel
+	XI2IR	Iran
+	XI2SA	Saudi Arabia
+	XI2TR	Turkey
+	XI3EG	Egypt
+	XI3ZA	South Africa
+	XI4AT	Austria
+	XI4BE	Belgium
+	XI4CH	Switzerland
+	XI4DE	Germany
+	XI4DK	Denmark
+	XI4ES	Spain
+	XI4FR	France
+	XI4GB	United Kingdom
+	XI4IT	Italy
+	XI4NL	Netherlands
+	XI4NO	Norway
+	XI4PT	Portugal
+	XI4RU	Russia
+	XI4SE	Sweden
+	XI5CA	Canada
+	XI5MX	Mexico
+	XI5US	United States
+	XI6AR	Argentina
+	XI6BR	Brazil
+	XI6CL	Chile
+	XI6PE	Peru
+	XI7AU	Australia
+	XI7NZ	New Zealand
+	XI9AF	Africa
+	XI9AS	Asia
+	XI9EE	Eastern European Nations
+	XI9EU	European Nations
+	XI9LA	Latin America
+	XI9ME	Middle East
+	XI9PI	Pacific Islands
+	XI9SA	Southeast Asia
+XN	People: All
+	XN109	Japanese
+	XN159	Foreigners
+	XN209	Family
+Hisorical Periods: All
+	XP210	Prehistoric Period
+	XP230	Protohistoric Period
+	XP311	Asuka Period
+	XP312	Nara Period
+	XP320	Heian Period
+	XP331	Kamakura Period
+	XP332	Muromachi Period
+	XP333	Azuchi-Momoyama Period
+	XP340	Edo Period
+	XP411	Meiji Period
+	XP412	Taisho and Early Showa Periods
+	XP420	Late Showa and Heisei Periods
+Seasons: All
+	XS101	Spring
+	XS102	Summer
+	XS103	Autumn
+	XS104	Winter
+	XS201	January
+	XS202	February
+	XS203	March
+	XS204	April
+	XS205	May
+	XS206	June
+	XS207	July
+	XS208	August
+	XS209	September
+	XS210	October
+	XS211	November
+	XS212	December

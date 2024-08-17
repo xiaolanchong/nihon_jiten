@@ -1,0 +1,489 @@
+Japan's Natural Setting
+	Geography 
+		GG100	General Articles
+		GG199	People
+		GG200	Major Geographical Areas
+		GG310	Prefectures
+		GG320	Wards
+		GG330	Cities
+		GG340	Towns
+		GG350	Villages
+		GG360	Districts and Areas
+		GG370	Old Place Names
+		GG410	Islands
+		GG420	Capes and Peninsulas
+		GG430	Coasts and Seashores
+		GG440	Bays
+		GG450	Channels and Straits
+		GG460	Seas
+		GG511	Mountains
+		GG512	Volcanoes
+		GG515	Mountainous Regions
+		GG520	Highlands
+		GG530	Passes
+		GG540	Basins
+		GG550	Plains
+		GG560	Rivers
+		GG565	Canals and Aqueducts
+		GG570	Valleys and Gorges
+		GG575	Waterfalls
+		GG580	Lakes
+		GG585	Dams
+		GG590	Caves
+		GG600	National Parks
+		GG650	Scenic Areas and Tourist Spots
+		GG700	Hot Springs
+		GG800	Industrial Zones, Coalfields, and Mines
+		GG190	Other Articles
+	ST200	Natural Phenomena and Resources
+	ST300	The Environment
+	Plant Life
+		PL100	General Articles
+		PL400	Herbaceous Plants
+		PL500	Trees
+		PL300	Plants Other than Trees and Herbaceous Plants
+		EL433	Botanical Gardens and Parks
+		PL190	Other Articles
+	Animal Life
+		AL100	General Articles
+		AL300	Invertebrates
+		AL310	Arthropods
+		AL320	Insects
+		AL410	Fishes
+		AL420	Amphibians
+		AL430	Reptiles
+		AL440	Birds
+		AL450	Mammals
+		EL431	Zoological Gardens
+		EL432	Aquariums
+		AL190	Other Articles
+History of Japan
+	Archaeology
+		AR100	General Articles
+		AR199	People
+		AR200	Artifacts and Earthenware
+		AR300	Archaeological Sites and Remains
+		AR190	Other Articles
+	Japanese History: Overview and Miscellany
+		HS100	General Articles
+		HS159	Historians
+		ED200	History of Education
+		EC110	Economic History to 1868
+		EC111	Economic History from 1868
+		LW200	History of Japanese Law
+		HS195	Incidents and Events
+		HS190	Other Articles
+	Prehistory
+		HS210	Prehistory
+		HS219	Prehistory: People 
+		HS230	Protohistory
+		HS239	Protohistory: People
+	Early History (593-1185)
+		HS310	Asuka Period
+		HS319	Asuka Period: People
+		HS320	Nara Period
+		HS329	Nara Period: People
+		HS330	Heian Period
+		HS339	Heian Period: People
+	Medieval History (1185-1600)
+		HS410	Kamakura Period (1185-1333)
+		HS419	Kamakura Period: People
+		HS420	Muromachi Period (1333-1568)
+		HS429	Muromachi Period: People
+		HS430	Azuchi-Momoyama Period (1568-1600)
+		HS439	Azuchi-Momoyama Period: People
+	Early Modern History (1600-1868)
+		HS510	Edo Period (1600-1868)
+		HS519	Edo Period: People
+	Modern History (1868-1945)
+		HS610	Meiji Period (1868-1912)
+		HS619	Meiji Period: People
+		HS620	Taisho and Early Showa Period (1912-1945)
+		HS629	Taisho and Early Showa Period: People
+	Contemporary History (1945-Present)
+		HS710	Late Showa and Heisei Period
+		HS719	Late Showa and Heisei Period: People
+Society
+	Society
+		SC100	General Articles
+		SC159	Sociologists
+		SC200	Social Structure
+		SC400	Family and Household 
+		SC500	Social Concepts and Practices
+		SC300	Social Issues
+		SC600	Social Welfare and Insurance
+		ED800	Community Education
+		SC700	Social Movements
+		SC708	Social Movements: Groups and Organizations
+		SC709	Social Movements: People
+		SC190	Other Articles
+	Government and Politics
+		GP100	General Articles
+		GP199	People
+		GP200	Government Policy and Administration
+		GP208	Government Institutions, Ministries, and Agencies
+		GP308	Political Parties and Organizations
+		GP110	Elections
+		GP120	Political Scandals, Crises, and Incidents
+		GP400	Political Movements
+		GP409	Political Movements: People
+		GP190	Other Articles
+	Law
+		LW100	General Articles
+		LW199	People
+		LW196	Laws
+		LW200	History of Japanese Law
+		LW206	Premodern Laws
+		LW300	The Constitution
+		LW310	The Constitution: Cases and Decisions
+		LW450	Judicial System
+		LW410	Administrative Law
+		LW420	Civil Law
+		LW430	Commercial and Corporate Law
+		LW440	Criminal Law
+		LW470	Labor Law
+		LW480	Social Security Legislation
+		LW500	International Law
+		LW190	Other Articles
+	Economy
+		EC100	General Articles 
+		EC159	Economists
+		EC110	Economic History to 1868
+		EC111	Economic History from 1868
+		EC400	Financial Policy and Taxes
+		EC500	Financial Markets and Institutions
+		EC112	Coins and Currency
+		CO320	Banks and Insurance, Finance, and Securities Companies
+		EC200	Infrastructure
+		EC600	International Economic Relations
+		EC650	Industries
+		GG800	Industrial Zones, Coalfields, and Mines
+		EC700	Business Management and Practices
+		EC709	Businesspersons
+		EC800	Labor
+		EC809	Labor: People
+		EC808	Labor Unions
+		EC190	Other Articles
+	Companies
+		CO110	Construction Companies
+		CO380	Construction Material Companies
+		CO120	Food and Beverage Companies
+		CO130	Textile and Apparel Companies
+		CO140	Chemical Companies
+		CO150	Pharmaceutical Companies
+		CO160	Oil, Coal, and Rubber Product Companies
+		CO170	Iron and Steel Companies
+		CO540	Glass and Ceramics Companies
+		CO550	Nonferrous Metal Companies
+		CO560	Metal Product Companies
+		CO190	Machinery Companies
+		CO200	Electrical Machinery Companies
+		CO210	Computer Companies
+		CO220	Semiconductor Companies
+		CO230	Automotive Industry Companies
+		CO240	Shipbuilding Companies
+		CO280	Transportation Companies 
+		CO260	Precision Instrument Companies
+		CO270	Electric and Gas Companies
+		CO290	Trading Companies and Wholesalers
+		CO300	Retail Companies
+		CO310	Food Service Industry Companies
+		CO320	Banks and Insurance, Finance, and Securities Companies
+		CO330	Real Estate Companies
+		CO340	Service Industry Companies
+		CO350	Leisure Industry Companies
+		CO360	Sporting Goods Companies
+		CO370	Printing Companies
+		CO390	Furniture Companies
+		CO410	Musical Instrument Companies
+		CO420	Railway Rolling Stock Companies
+		CO430	Newspaper Companies
+		CO440	Broadcasting Companies
+		CO450	Advertising Agencies
+		CO460	Publishing Companies
+		CO570	Communication Companies
+		CO510	Fishery and Agriculture Companies
+		CO520	Mining Companies
+		CO530	Pulp and Paper Companies
+	Agriculture
+		AG100	General Articles
+		AG199	People
+		AG300	Plant Crops
+		AG200	Harmful Insects and Plant Diseases
+		AG190	Other Articles
+	Marine Industries
+		MR100	General Articles
+		MR199	People
+		MR190	Other Articles
+	International Relations
+		IR100	General Articles
+		IR200	Diplomatic Affairs
+		IR209	Diplomatic Affairs: People
+		IR410	Relations with Other Countries
+		IR419	Relations with Other Countries: People
+		IR420	Relations with Other Regions or Groups
+		IR600	Emigration and Immigration
+		IR609	Emigration and Immigration: People
+		IR700	International Cultural Exchange
+		IR709	International Cultural Exchange: People
+		EC600	International Economic Relations
+		IR196	Treaties and Agreements
+		IR190	Other Articles
+	Military
+		ML100	General Articles
+		ML190	Premodern Military
+		ML199	Premodern Military: People
+		ML200	Modern Military
+		ML209	Modern Military: People
+		ML400	Arms
+		ML500	Wars and Battles
+	Mass Communications
+		MS100	General Articles
+		MS159	People
+		MS200	Newspapers
+		CO430	Newspaper Companies
+		MS300	Publishing
+		CO460	Publishing Companies
+		TL760	Magazines and Journals
+		MS400	Broadcasting
+		CO440	Broadcasting Companies
+		MS500	Advertising
+		CO450	Advertising Companies
+		MS190	Other Articles
+	Education
+		ED100	General Articles
+		ED199	People
+		ED200	History of Education
+		ED300	The Education System
+		ED400	School Curriculum
+		ED500	Teaching Method
+		ED710	Universities
+		ED720	Schools (Other than Universities)
+		ED730	Research and Educational Institutes
+		ED800	Community Education
+		EL410	Libraries
+		EL420	Museums
+		ED190	Other Articles
+	Women
+		WM100	General Articles
+		WM199	People
+		WM190	Other Articles
+Science and Technology
+	Science and Technology
+		ST100	General Articles
+		ST150	Premodern Science and Technology
+		ST159	Premodern Science and Technology: People
+		ST500	Technology and Engineering
+		ST509	Technology and Engineering: People 
+		ED730	Research and Educational Institutes
+		ST190	Other Articles
+	Natural Sciences
+		ST400	Natural Sciences
+		ST409	Natural Sciences: People
+		EL431	Zoological Gardens
+		EL432	Aquariums
+		EL433	Botanical Gardens and Parks
+	Medicine
+		MD100	General Articles
+		MD199	People
+		MD200	Diseases
+		MD190	Other Articles
+Culture
+	Anthropology
+		AN100	General Articles
+		AN199	People
+		AN190	Other Articles
+	Folklore
+		FL100	General Articles
+		FL199	People
+		FL200	Festivals and Folk Dances
+		FL300	Traditional Occupations
+		FL400	Ceremonies, Customs, and Practices
+		FL500	The Calendar and Seasonal Events
+		FL501	Annual Events
+		FL600	Folk Beliefs and Superstitions
+		FL601	Deities
+		FL602	Supernatural Creatures
+		FL700	Folktales and Legends
+		FL800	Folk Crafts
+		FL190	Other Articles
+	Philosophy and Thought
+		PT100	General Articles
+		PT200	Premodern Philosophy
+		PT209	Premodern Philosophy: People
+		PT220	Confucianism
+		PT210	Kokugaku
+		PT240	Western Learning
+		PT300	Modern Philosophy
+		PT309	Modern Philosophy: People
+		PT150	Aesthetics
+		PT190	Other Articles
+	Religion
+		RL100	General Articles
+		RL200	Folk Religion
+		RL400	Shinto
+		RL409	Shinto: People
+		RL402	Shinto Rites and Concepts
+		RL405	Shinto Deities
+		RL403	Shinto Art
+		RL404	Shinto Architecture
+		RL401	Shinto Shrines
+		RL408	Shinto Sects and Organizations
+		RL500	Buddhism
+		RL509	Buddhism: People
+		RL502	Buddhist Practices and Concepts
+		RL505	Zen
+		RL503	Buddhist Art
+		RL504	Buddhist Architecture
+		RL501	Buddhist Temples
+		RL508	Buddhist Sects and Organizations
+		RL600	Christianity
+		RL609	Christianity: People
+		RL608	Church Bodies and Organizations
+		RL300	New Religions
+		RL309	New Religions: People
+		RL308	New Religions: Organizations
+		RL190	Other Articles
+	Literature
+		LT100	General Articles
+		LT150	Literary Study
+		LT159	Literary Study: People
+		LT270	Early Japanese Songs
+		LT210	Waka and Tanka
+		LT219	Waka and Tanka: People
+		LT220	Kyoka
+		LT229	Kyoka: People
+		LT230	Renga
+		LT239	Renga: People
+		LT240	Haikai, Haiku, and Senryu
+		LT249	Haikai, Haiku, and Senryu: People
+		LT260	Modern Poetry
+		LT269	Modern Poetry: People
+		LT310	Drama
+		LT319	Drama: People
+		LT320	Fiction
+		LT329	Fiction: People
+		LT330	Nonfiction
+		LT339	Nonfiction: People
+		LT350	Literary Criticism
+		LT359	Literary Criticism: People
+		LT400	Poetry and Prose in Chinese
+		LT409	Poetry and Prose in Chinese: People
+		TL710	Books
+		LT190	Other Articles
+	Language
+		LN190	Language
+		LN199	People
+		LN210	Japanese Writing and Orthography
+		LN220	Japanese Pronunciation
+		LN230	Japanese Grammar, Vocabulary, and Usage
+	Fine Arts
+		FA100	General Articles
+		FA200	Sculpture
+		FA209	Sculpture: People
+		FA310	Painting
+		FA319	Painting: People
+		FA320	Prints
+		FA329	Prints: People
+		FA312	Ukiyo-e
+		FA330	Comic Pictures
+		FA339	Comic Pictures: People
+		FA340	Design
+		FA349	Design: People
+		FA350	Calligraphy
+		FA359	Calligraphy: People
+		FA360	Photography
+		FA369	Photography: People
+		FA370	Decorative Arts
+		FA379	Decorative Arts: People
+		FA380	Ceramics and Pottery
+		FA389	Ceramics and Pottery: People
+		RL503	Buddhist Art
+		RL403	Shinto Art
+		TL730	Works of Art
+		FA190	Other Articles
+	Architecture
+		AC100	General Articles
+		AC199	People
+		AC610	Buildings
+		AC611	Castles
+		RL504	Buddhist Architecture
+		RL404	Shinto Architecture
+		AC190	Other Articles
+	Performing Arts
+		PR100	General Articles
+		PR200	Music
+		PR209	Music: People
+		PR208	Orchestras
+		PR280	Music Instruments
+		PR300	Film
+		PR309	Film: People
+		PR410	No and Kyogen
+		PR419	No and Kyogen: People
+		PR420	Bunraku
+		PR429	Bunraku: People
+		PR430	Kabuki
+		PR439	Kabuki: People
+		PR510	Modern Drama and Dance
+		PR519	Modern Drama and Dance: People
+		PR518	Dance and Theater Companies
+		PR520	Popular Performing Arts
+		PR529	Popular Performing Arts: People
+		TL740	Movies and Plays
+		PR190	Other Articles
+	Traditional Japanese Culture
+		PR410	No and Kyogen 
+		PR430	Kabuki
+		PR420	Bunraku
+		FL200	Festivals and Folk Dance
+		LS201	Tea Ceremony
+		LS202	Flower Arrangement
+		LS200	Traditional Pastimes and Accomplishments
+		PT150	Aesthetics
+		RL505	Zen
+		RL503	Buddhist Art
+		RL403	Shinto Art
+		RL504	Buddhist Architecture
+		RL404	Shinto Architecture
+		AC611	Castles
+		FA311	Traditional Japanese Painting
+		FA312	Ukiyo-e
+		FA350	Calligraphy
+		FA380	Ceramics and Pottery
+		FA371	Textiles
+		FD200	Traditional Cooking
+Daily Life
+	Manners and Customs
+		MC190	Manners and Customs
+		MC210	Customs of the Aristocratic Class
+		MC220	Customs of the Warrior Class
+		MC230	Townsmen's Customs
+		MC500	Etiquette
+	Clothing and Fashion
+		CL100	General Articles
+		CL199	Fashion Designers
+		CL190	Other Articles
+	Food
+		FD100	General Articles
+		FD200	Traditional Cooking
+		FD300	Popular Dishes
+		FD400	Confections
+		FD500	Beverages and Processed Food Products
+		FD600	Foodstuffs and Provisions
+		FD190	Other Articles
+	HN190	Housing
+	Leisure
+		LS100	General Articles
+		LS200	Traditional Pastimes and Accomplishments
+		LS300	Card Games and Board Games
+		LS400	Entertainment
+		EL431	Zoological Gardens
+		EL432	Aquariums
+		EL433	Botanical Gardens and Parks
+		LS190	Other Articles
+	Sports
+		SR100	General Articles
+		SR199	People
+		SR300	Martial Arts and Traditional Sports
+		SR200	Modern Sports
+		SR190	Other Articles

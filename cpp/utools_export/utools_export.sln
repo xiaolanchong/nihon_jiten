@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "utools_export", "utools_export\utools_export.vcxproj", "{41A24594-6434-4B0C-B9DB-F7DD0DB133F7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "utools_stub", "utools_stub\utools_stub.vcxproj", "{431E5470-7518-47E0-ACFA-26D7FA70DAA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41A24594-6434-4B0C-B9DB-F7DD0DB133F7}.Debug|x86.ActiveCfg = Debug|Win32
+		{41A24594-6434-4B0C-B9DB-F7DD0DB133F7}.Debug|x86.Build.0 = Debug|Win32
+		{41A24594-6434-4B0C-B9DB-F7DD0DB133F7}.Release|x86.ActiveCfg = Release|Win32
+		{41A24594-6434-4B0C-B9DB-F7DD0DB133F7}.Release|x86.Build.0 = Release|Win32
+		{431E5470-7518-47E0-ACFA-26D7FA70DAA6}.Debug|x86.ActiveCfg = Debug|Win32
+		{431E5470-7518-47E0-ACFA-26D7FA70DAA6}.Debug|x86.Build.0 = Debug|Win32
+		{431E5470-7518-47E0-ACFA-26D7FA70DAA6}.Release|x86.ActiveCfg = Release|Win32
+		{431E5470-7518-47E0-ACFA-26D7FA70DAA6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF806099-DB6B-4092-A3D7-0549E5F63B25}
+	EndGlobalSection
+EndGlobal
